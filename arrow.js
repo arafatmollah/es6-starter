@@ -33,4 +33,4 @@ const bigArrow = (x, y) => {
     return all;
 }
 const allFunc = bigArrow(23, 10);
-console.log(allFunc)
+console.log(allFunc);
